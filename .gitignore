@@ -1,15 +1,6 @@
-# Environment variables
-.env
-
 # Virtual Environment
 myvenv/
 venv/
-
-# FAISS Vector Database
-faiss_db/
-
-# Resume PDF
-data/Mohar Mukherjee_.pdf
 
 # Test files
 text.py
